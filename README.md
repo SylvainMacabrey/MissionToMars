@@ -48,8 +48,7 @@ La sortie pour chaque rover devrait être ses coordonnées finales et son cap.
 ### Faire fonctionner le code:
 * Taper la commande ```composer install``` pour installer toutes les dépendances
 * Aller dans le dossier du projet
-* Taper la commande ```php ./src/App.php {arg1} {arg2} ...```
-* Par exemple: ```php ./src/App.php RFFFFLFFFF LFFL```
+* Taper la commande ```php ./src/App.php {arg1} {arg2} ...```, par exemple: ```php ./src/App.php RFFFFLFFFF LFFL```
 ##### Résultat:
 
     4 4 N
